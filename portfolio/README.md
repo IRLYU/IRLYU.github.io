@@ -1,1 +1,1 @@
-[Site](https://irlyu.github.io/portfolio/Index.html)
+[Site](https://irlyu.github.io/portfolio/index.html)
