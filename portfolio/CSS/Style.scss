@@ -28,6 +28,10 @@ body{
 .visible{
     overflow:hidden;
 }
+.active-button {
+    background-color: #BDAE82 !important;
+    color: #000 !important;
+}
 button{
     cursor: pointer;
 }
@@ -210,7 +214,7 @@ button{
                 font-family: Merriweather-Bold;
                 Line-height: 120px;
                 @media (max-width: 800px) {
-                    line-height: 64px;
+                    line-height: 60px;
                     font-size: 32px;
                     width: 165px;
                 }
@@ -355,10 +359,6 @@ button{
                     color: #BDAE82;
                     border: 2px solid #BDAE82;
                     background-color: #000;
-                    &:nth-child(4){
-                        background-color: #BDAE82;
-                        color: #000;
-                    }
                     &:hover{
                         color: #FFFFFF;
                     }
@@ -382,7 +382,7 @@ button{
                 --gap: 25px;
                 display: flex;
                 flex-wrap: wrap;
-                padding: 47.5px 7.5px 0px 7.5px;
+                padding: 45px 7.5px 0px 7.5px;
                 @media (max-width: 1100px) {
                     flex-direction: column;
                     align-items: center;
