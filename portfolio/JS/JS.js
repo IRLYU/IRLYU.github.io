@@ -18,6 +18,7 @@ window.addEventListener('resize',() => {
 })
 
 
+
 // Смена картинок 
 const buttons = document.querySelectorAll('.Portfolio__menu-item')
 const photos = document.querySelectorAll('.photo')
@@ -36,4 +37,36 @@ buttons.forEach(button => {
     }
   })
 })
-// пам
+
+// Изменение фото-видео под 768 pixel
+const video = document.querySelector('.Video-photo')
+window.addEventListener('resize',() => {
+  if(window.innerWidth < 800 ){
+    video.src = "IMG/video-player768.jpg"
+  }else{
+    video.src = "IMG/video-player.jpg"
+  }
+})
+
+
+
+
+import {i18Obj} from './translate.js'
+const ru = document.querySelector('.ru-lang')
+const en = document.querySelector('.eng-lang')
+en.addEventListener('click', () =>{
+  TranslateLang(en.getAttribute('data-lang'))
+})
+ru.addEventListener('click', () =>{
+  TranslateLang(ru.getAttribute('data-lang'))
+})
+
+function TranslateLang(lang){
+  const translate = document.querySelectorAll('[data-i18n]')
+  translate.forEach(element => {
+    if (element.hasAttribute('data-i18n')){
+      let getAttr = element.getAttribute('data-i18n')
+      element.textContent = i18Obj[lang][getAttr]
+    }
+  })
+}

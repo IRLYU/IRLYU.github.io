@@ -227,16 +227,14 @@ button {
   }
 }
 .hero-container .hero-container__text h1 {
-  width: 500px;
   font-size: 60px;
   font-family: Merriweather-Bold;
   Line-height: 120px;
 }
 @media (max-width: 800px) {
   .hero-container .hero-container__text h1 {
-    line-height: 60px;
+    line-height: 64px;
     font-size: 32px;
-    width: 165px;
   }
 }
 .hero-container .hero-container__text p {
@@ -398,7 +396,7 @@ main .Portfolio .Portfolio-menu .Portfolio__menu-item {
   height: 55px;
   color: #BDAE82;
   border: 2px solid #BDAE82;
-  background-color: #000;
+  background-color: transparent;
 }
 main .Portfolio .Portfolio-menu .Portfolio__menu-item:hover {
   color: #FFFFFF;
@@ -427,6 +425,11 @@ main .Portfolio .Portfolio__photo {
   main .Portfolio .Portfolio__photo {
     flex-direction: column;
     align-items: center;
+  }
+}
+@media (max-width: 800px) {
+  main .Portfolio .Portfolio__photo {
+    padding: 47.5px 7.5px 0px 7.5px;
   }
 }
 main .Portfolio .Portfolio__photo .Portfolio__photo-item {

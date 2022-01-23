@@ -20,15 +20,15 @@
                 <div class="right-menu">
                     <nav class="header__nav">
                         <ul class="nav__menu">
-                            <li class="nav__menu-item"><a href="#Skills">Skills</a></li>
-                            <li class="nav__menu-item"><a href="#portfolio">Portfolio</a></li>
-                            <li class="nav__menu-item"><a href="#Video">Video</a></li>
-                            <li class="nav__menu-item"><a href="#Price">Price</a></li>
-                            <li class="nav__menu-item"><a href="#Contact">Contacts</a></li>
+                            <li class="nav__menu-item"><a href="#Skills" data-i18n="skills">Skills</a></li>
+                            <li class="nav__menu-item"><a href="#portfolio" data-i18n="portfolio">Portfolio</a></li>
+                            <li class="nav__menu-item"><a href="#Video" data-i18n="video">Video</a></li>
+                            <li class="nav__menu-item"><a href="#Price" data-i18n="price">Price</a></li>
+                            <li class="nav__menu-item"><a href="#Contact" data-i18n="contacts">Contacts</a></li>
                         </ul>
                     </nav>
                     <div class="change-lang">
-                        <span class="eng-lang">en</span>/<span class="ru-lang">ru</span>
+                        <span class="eng-lang" data-lang="en">en</span>/<span data-lang="ru" class="ru-lang">ru</span>
                     </div>
                     <div class="hamburger">
                         <div class="line line1"></div>
@@ -39,19 +39,19 @@
                         <nav class="hamburger__nav-menu">
                             <ul class="nav__menu">
                                 <li class="nav__menu-item">
-                                    <a class="anchor" href="#Skills">Skills</a>
+                                    <a class="anchor" href="#Skills" data-i18n="skills">Skills</a>
                                 </li>
                                 <li class="nav__menu-item">
-                                    <a class="anchor" href="#portfolio">Portfolio</a>
+                                    <a class="anchor" href="#portfolio" data-i18n="portfolio">Portfolio</a>
                                 </li>
                                 <li class="nav__menu-item">
-                                    <a class="anchor"  href="#Video">Video</a>
+                                    <a class="anchor"  href="#Video" data-i18n="video">Video</a>
                                 </li>
                                 <li class="nav__menu-item">
-                                    <a class="anchor"  href="#Price">Price</a>
+                                    <a class="anchor"  href="#Price" data-i18n="price">Price</a>
                                 </li>
                                 <li class="nav__menu-item">
-                                    <a class="anchor" href="#Contact">Contacts</a>
+                                    <a class="anchor" href="#Contact" data-i18n="contacts">Contacts</a>
                                 </li>
                             </ul>
                         </nav>
@@ -60,18 +60,18 @@
             </header>
             <section class="hero">
                 <div class="hero-container__text">
-                    <h1>Alexa Rise</h1>
-                    <p>
+                    <h1 data-i18n="hero-title">Alexa Rise</h1>
+                    <p data-i18n="hero-text">
                         Save sincere emotions, romantic feelings and happy moments of life together with professional photographer Alexa Rise
                     </p>
-                    <button>Hire me</button>
+                    <button data-i18n="hire">Hire me</button>
                 </div>
             </section>
         </div>
         <main>
             <section class="Skills" id="Skills">
                 <div class="titul">
-                    <h2>
+                    <h2 data-i18n="skills">
                         Skills
                     </h2>
                     <hr>
@@ -92,10 +92,10 @@
                             </clipPath>
                             </defs>
                             </svg>
-                        <p class="item-name">
+                        <p class="item-name" data-i18n="skill-title-1">
                             Digital photography
                         </p>
-                        <p class="item-name-text">
+                        <p class="item-name-text" data-i18n="skill-text-1">
                             High-quality photos in the studio and on the nature
                         </p>
                     </div>
@@ -110,10 +110,10 @@
                                 </clipPath>
                                 </defs>
                             </svg>
-                            <p class="item-name">
+                            <p class="item-name" data-i18n="skill-title-2">
                                 Video shooting
                             </p>
-                            <p class="item-name-text">
+                            <p class="item-name-text" data-i18n="skill-text-2">
                                 Capture your moments so that they always stay with you
                             </p>
                     </div>
@@ -129,10 +129,10 @@
                             </clipPath>
                             </defs>
                             </svg>
-                            <p class="item-name">
+                            <p class="item-name" data-i18n="skill-title-3">
                                 Retouch
                             </p>
-                            <p class="item-name-text">
+                            <p class="item-name-text" data-i18n="skill-text-3">
                                 I strive to make photography surpass reality
                             </p>
                     </div>
@@ -148,10 +148,10 @@
                             </clipPath>
                             </defs>
                             </svg>
-                            <p class="item-name">
+                            <p class="item-name" data-i18n="skill-title-4">
                                 Audio
                             </p>
-                            <p class="item-name-text">
+                            <p class="item-name-text" data-i18n="skill-text-4">
                                 Professional sounds recording for video, advertising, portfolio
                             </p>
                     </div>
@@ -159,16 +159,17 @@
             </section>
             <section class="Portfolio" id="portfolio">
                 <div class="titul">
-                    <h2>
+                    <h2 data-i18n="portfolio">
                         Portfolio
                     </h2>
                     <hr>
                 </div>
                 <div class="Portfolio-menu">
-                    <button class="Portfolio__menu-item" data-season="winter">Winter</button>
-                    <button class="Portfolio__menu-item" data-season="spring">Spring</button>
-                    <button class="Portfolio__menu-item" data-season="summer">Summer</button>
-                    <button class="Portfolio__menu-item active-button" data-season="autumn">Autumn</button>
+
+                    <button class="Portfolio__menu-item" data-season="winter" data-i18n="winter">Winter</button>
+                    <button class="Portfolio__menu-item" data-season="spring" data-i18n="spring">Spring</button>
+                    <button class="Portfolio__menu-item" data-season="summer" data-i18n="summer">Summer</button>
+                    <button class="Portfolio__menu-item active-button" data-season="autumn" data-i18n="autumn">Autumn</button>
                 </div>
                 <div class="Portfolio__photo">
                     <div class="Portfolio__photo-item">
@@ -188,18 +189,19 @@
                     </div>
                     <div class="Portfolio__photo-item">
                         <img src="IMG/autumn/6.jpg" class="photo" alt="">
+
                     </div>
                 </div>
             </section>
             <section class="Video" id="Video">
                 <div class="titul">
-                    <h2>
+                    <h2 data-i18n="video">
                         Video
                     </h2>
                     <hr>
                 </div>
                 <div class="Video__item">
-                    <img src="IMG/video-player.jpg" alt="">
+                    <img src="IMG/video-player.jpg" class="Video-photo" alt="">
                     <button class="Video__item-play">
                         <svg width="100%" height="100%" viewBox="0 0 130 130" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M58.521 0.13572C58.0219 0.256183 55.5699 0.686409 53.0729 1.09112C6.17415 8.69809 -16.0083 65.9044 13.0263 104.367C22.0681 116.344 42.8323 129.906 43.8607 124.506C43.9895 123.832 42.7534 122.978 39.6854 121.624C27.0991 116.065 15.7097 105.112 9.49548 92.5938C-13.0744 47.1276 25.5402 -4.32319 75.965 4.02852C83.5399 5.28359 84.8555 2.66782 77.4319 1.11129C74.053 0.402757 60.344 -0.303999 58.521 0.136315V0.13572ZM58.8236 13.5427C49.9562 14.8494 38.5455 19.3896 38.5455 21.6114C38.5455 23.3352 39.8261 23.2017 44.5063 20.9901C70.1424 8.8779 101.354 22.1306 110.64 49.0716C126.075 93.8524 75.1194 131.76 36.427 104.279C14.9264 89.009 9.96843 58.679 25.4031 36.8396C29.4989 31.0443 27.3436 28.5941 23.1612 34.2915C-2.60779 69.3966 24.2964 118.982 67.7711 116.507C111.658 114.008 132.641 61.4206 102.441 29.6195C91.3694 17.9613 73.5089 11.378 58.8242 13.5415L58.8236 13.5427ZM111.588 21.4488C110.688 22.349 111.376 23.9601 114.257 27.704C135.62 55.4579 128.626 96.9429 99.2939 116.46C86.0768 125.255 74.472 127.692 52.7708 126.233C50.7271 126.096 50.3491 126.252 50.3491 127.237C50.3491 131.711 76.324 130.498 89.2029 125.422C126.968 110.539 141.858 62.4946 119.094 28.9739C114.774 22.6137 112.602 20.4352 111.588 21.4494L111.588 21.4488ZM47.2645 44.1107C46.191 45.2963 46.099 46.6867 45.9347 64.2031C45.6647 92.9997 42.7985 92.1292 77.569 73.8111C94.5145 64.8831 94.6095 65.1632 70.3056 52.4143C51.3039 42.4467 49.3949 41.7584 47.2645 44.1107ZM68.2637 55.0052C86.726 64.6481 86.8221 64.7081 85.5308 65.7798C84.0829 66.982 51.1615 84 50.285 84C49.5812 84 49.4412 80.8353 49.4412 64.9324C49.4412 51.5574 49.6388 45.8642 50.1022 45.8642C50.4654 45.8642 58.6385 49.9778 68.2643 55.0052H68.2637Z" fill="white"/>
@@ -210,7 +212,7 @@
             </section>
             <section class="Price" id="Price">
                 <div class="titul">
-                    <h2>
+                    <h2 data-i18n="price">
                         Price
                     </h2>
                     <hr>
@@ -224,13 +226,13 @@
                             500 $
                         </p>
                         <p class ="Price__item-text">
-                            One location<br>
-                            120 photos in color<br>
-                            12 photos in retouch<br>
-                            Readiness 2-3 weeks<br>
-                            Make up, visage<br>
+                            <span data-i18n="price-description-1-span-1">One location</span><br>
+                            <span data-i18n="price-description-1-span-2">120 photos in color</span><br>
+                            <span data-i18n="price-description-1-span-3">12 photos in retouch</span><br>
+                            <span data-i18n="price-description-1-span-4">Readiness 2-3 weeks</span><br>
+                            <span data-i18n="price-description-1-span-5">Make up, visage</span><br>
                         </p>
-                        <button>
+                        <button data-i18n="order">
                             Order shooting 
                         </button>
                     </div>
@@ -242,13 +244,13 @@
                             700 $
                         </p>
                         <p class ="Price__item-text">
-                            One or two locations<br>
-                            200 photos in color<br>
-                            20 photos in retouch<br>
-                            Readiness 1-2 weeks<br>
-                            Make up, visage<br>
+                            <span data-i18n="price-description-2-span-1">One or two locations</span><br>
+                            <span data-i18n="price-description-2-span-2">200 photos in color</span><br>
+                            <span data-i18n="price-description-2-span-3">20 photos in retouch</span><br>
+                            <span data-i18n="price-description-2-span-4">Readiness 1-2 weeks</span><br>
+                            <span data-i18n="price-description-2-span-5">Make up, visage</span><br>
                         </p>
-                        <button>
+                        <button data-i18n="order">
                             Order shooting 
                         </button>
                     </div>
@@ -260,13 +262,13 @@
                             1000 $
                         </p>
                         <p class ="Price__item-text">
-                            Three locations or more<br>
-                            300 photos in color<br>
-                            50 photos in retouch<br>
-                            Readiness 1 week<br>
-                            Make up, visage, hairstyle<br>
+                            <span data-i18n="price-description-3-span-1">locations or more</span><br>
+                            <span data-i18n="price-description-3-span-2">300 photos in color</span><br>
+                            <span data-i18n="price-description-3-span-3">50 photos in retouch</span><br>
+                            <span data-i18n="price-description-3-span-4">Readiness 1 week</span><br>
+                            <span data-i18n="price-description-3-span-5">Make up, visage, hairstyle</span><br>
                         </p>
-                        <button>
+                        <button data-i18n="order">
                             Order shooting 
                         </button>
                     </div>
@@ -274,14 +276,14 @@
             </section>
             <section class="Contact" id="Contact">
                 <div class="Contact-item">
-                    <h2 class="Contact-name">
+                    <h2 class="Contact-name" data-i18n="contact-me">
                         Contact me 
                     </h2>
                     <input type="email" placeholder="E-mail">
                     <input type="tel" placeholder="Phone">
                     <textarea placeholder="Message"></textarea>
 
-                    <button>
+                    <button data-i18n="send-message">
                         Send message
                     </button>
                 </div>
@@ -328,6 +330,6 @@
                 </ul>                        
             </div>
         </footer>
-        <script src="JS/JS.js"></script>
+        <script type="module" src="JS/JS.js"></script>
 </body>
 </html>
