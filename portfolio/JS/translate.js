@@ -81,3 +81,4 @@ const i18Obj = {
       'send-message': 'Отправить'
     }
   }
+export{i18Obj}
