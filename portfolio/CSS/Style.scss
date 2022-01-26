@@ -32,6 +32,24 @@ body{
     background-color: #BDAE82 !important;
     color: #000 !important;
 }
+.active-lang{
+    color: #BDAE82 !important;
+}
+.darktheme{
+    color: #000 !important;
+}
+.darkhamb{
+    background-color: #000 !important;
+}
+.darkline{
+    background-color: #000 !important;
+}
+.darkback{
+    background-color: #FFFFFF !important;
+}
+.darkbutton{
+    color: #000 !important;
+}
 button{
     cursor: pointer;
 }
@@ -88,6 +106,9 @@ button{
                 @media (max-width: 800px) {
                     margin-left: 60px;
                 }
+                @media (max-width:400px) {
+                    margin-left: 10px;
+                }
             }
             .right-menu{
                 display: flex;
@@ -116,14 +137,26 @@ button{
                     font-size: 20px;
                     font-weight: 700px;
                     cursor: pointer;
-                    .eng-lang{
-                        color: #BDAE82;
-                    }
                     span{
+                        color: #FFFFFF;
                         margin: 0px 9px 0px 8px;
                         &:hover{
                             
                             color:#BDAE82;
+                        }
+                    }
+                }
+                .change-theme{
+                    cursor: pointer;
+                    display: flex;
+                    align-items: center;
+                    margin-right: 21px;
+                    @media (max-width: 800px) {
+                        margin-right: 30px;
+                    }
+                    &:hover{
+                        .color{
+                            fill: #BDAE82;
                         }
                     }
                 }
@@ -141,6 +174,9 @@ button{
                     z-index: 2;
                     @media (min-width:800px) {
                         display: none;
+                    }
+                    @media (max-width:400px) {
+                        margin-right: 10px;
                     }
                     .line {
                         width: 100%;
@@ -608,6 +644,7 @@ button{
         }
     }
     .Footer{
+        background-color: #000;
         display: flex;
         justify-content: space-between;
         align-items: center;

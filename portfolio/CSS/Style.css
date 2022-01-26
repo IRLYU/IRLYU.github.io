@@ -37,6 +37,30 @@ body {
   color: #000 !important;
 }
 
+.active-lang {
+  color: #BDAE82 !important;
+}
+
+.darktheme {
+  color: #000 !important;
+}
+
+.darkhamb {
+  background-color: #000 !important;
+}
+
+.darkline {
+  background-color: #000 !important;
+}
+
+.darkback {
+  background-color: #FFFFFF !important;
+}
+
+.darkbutton {
+  color: #000 !important;
+}
+
 button {
   cursor: pointer;
 }
@@ -102,6 +126,11 @@ button {
     margin-left: 60px;
   }
 }
+@media (max-width: 400px) {
+  .hero-container .hero-header .logo {
+    margin-left: 10px;
+  }
+}
 .hero-container .hero-header .right-menu {
   display: flex;
   justify-content: center;
@@ -131,14 +160,26 @@ button {
   font-weight: 700px;
   cursor: pointer;
 }
-.hero-container .hero-header .right-menu .change-lang .eng-lang {
-  color: #BDAE82;
-}
 .hero-container .hero-header .right-menu .change-lang span {
+  color: #FFFFFF;
   margin: 0px 9px 0px 8px;
 }
 .hero-container .hero-header .right-menu .change-lang span:hover {
   color: #BDAE82;
+}
+.hero-container .hero-header .right-menu .change-theme {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin-right: 21px;
+}
+@media (max-width: 800px) {
+  .hero-container .hero-header .right-menu .change-theme {
+    margin-right: 30px;
+  }
+}
+.hero-container .hero-header .right-menu .change-theme:hover .color {
+  fill: #BDAE82;
 }
 .hero-container .hero-header .right-menu .hamburger {
   z-index: 15;
@@ -159,6 +200,11 @@ button {
 @media (min-width: 800px) {
   .hero-container .hero-header .right-menu .hamburger {
     display: none;
+  }
+}
+@media (max-width: 400px) {
+  .hero-container .hero-header .right-menu .hamburger {
+    margin-right: 10px;
   }
 }
 .hero-container .hero-header .right-menu .hamburger .line {
@@ -683,6 +729,7 @@ main .Contact .Contact-item button:hover {
 }
 
 .Footer {
+  background-color: #000;
   display: flex;
   justify-content: space-between;
   align-items: center;
