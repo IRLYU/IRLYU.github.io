@@ -93,6 +93,12 @@ button{
             background-position: -5px -30px;
             background-size: auto 620px;
         }
+        @media (max-width: 500px) {
+            background-position: -90px -30px;
+        }
+        @media (max-width: 400px) {
+            background-position: -150px -30px;
+        }
         .hero-header{
             display: flex;
             padding: 20px 0px 20px 0px;
@@ -313,6 +319,10 @@ button{
                     width: 315px;
                     
                 }
+                @media (max-width: 450px) {
+                    width: 294px;
+                    
+                }
                 .Skills__blocks-item{
                     --gap:80px;
                     margin: calc(var(--gap)/ 2);
@@ -324,7 +334,7 @@ button{
                     width: 280px;
                     @media (max-width:1100px){
                         width: 300px;
-                        height: 224px;
+                        height: 226px;
                         flex-wrap: wrap;
                         margin: 18px 22px;
                         &:nth-child(1){
@@ -342,7 +352,7 @@ button{
                         
                     }
                     @media (max-width: 480px) {
-                        width: 240px;
+                        width: 250px;
                     }
                     .item-name{
                         text-align: center;
@@ -362,6 +372,10 @@ button{
                         @media (max-width:1100px){
                             line-height: 22px;
                             width: 280px;
+                        }
+                        @media (max-width:450px){
+                            width: 250px;
+                            height: 60px;
                         }
                     }
                 }
@@ -461,6 +475,9 @@ button{
                     max-height: 705px;
                     @media (max-width: 800px) {
                         height: 418px;
+                    }
+                    @media (max-width: 550px) {
+                        height: 100%;
                     }
                 }
                 .Video__item-play{

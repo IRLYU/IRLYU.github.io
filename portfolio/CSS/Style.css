@@ -109,6 +109,16 @@ button {
     background-size: auto 620px;
   }
 }
+@media (max-width: 500px) {
+  .hero-container {
+    background-position: -90px -30px;
+  }
+}
+@media (max-width: 400px) {
+  .hero-container {
+    background-position: -150px -30px;
+  }
+}
 .hero-container .hero-header {
   display: flex;
   padding: 20px 0px 20px 0px;
@@ -350,6 +360,11 @@ main .Skills .Skills__blocks {
     width: 315px;
   }
 }
+@media (max-width: 450px) {
+  main .Skills .Skills__blocks {
+    width: 294px;
+  }
+}
 main .Skills .Skills__blocks .Skills__blocks-item {
   --gap:80px;
   margin: calc(var(--gap)/ 2);
@@ -363,7 +378,7 @@ main .Skills .Skills__blocks .Skills__blocks-item {
 @media (max-width: 1100px) {
   main .Skills .Skills__blocks .Skills__blocks-item {
     width: 300px;
-    height: 224px;
+    height: 226px;
     flex-wrap: wrap;
     margin: 18px 22px;
   }
@@ -382,7 +397,7 @@ main .Skills .Skills__blocks .Skills__blocks-item {
 }
 @media (max-width: 480px) {
   main .Skills .Skills__blocks .Skills__blocks-item {
-    width: 240px;
+    width: 250px;
   }
 }
 main .Skills .Skills__blocks .Skills__blocks-item .item-name {
@@ -407,6 +422,12 @@ main .Skills .Skills__blocks .Skills__blocks-item .item-name-text {
   main .Skills .Skills__blocks .Skills__blocks-item .item-name-text {
     line-height: 22px;
     width: 280px;
+  }
+}
+@media (max-width: 450px) {
+  main .Skills .Skills__blocks .Skills__blocks-item .item-name-text {
+    width: 250px;
+    height: 60px;
   }
 }
 main .Portfolio {
@@ -524,6 +545,11 @@ main .Video .Video__item img {
 @media (max-width: 800px) {
   main .Video .Video__item img {
     height: 418px;
+  }
+}
+@media (max-width: 550px) {
+  main .Video .Video__item img {
+    height: 100%;
   }
 }
 main .Video .Video__item .Video__item-play {
