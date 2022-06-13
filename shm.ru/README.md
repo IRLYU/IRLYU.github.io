@@ -1,1 +1,1 @@
-[slider](https://irlyu.github.io/shm.ru/shows/index.htm)
+[slider](https://irlyu.github.io/shm.ru/shows/index.html)
