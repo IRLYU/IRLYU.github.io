@@ -1,1 +1,0 @@
-[slider](https://irlyu.github.io/shm.ru/shows/index.html)
