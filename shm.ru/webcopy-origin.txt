@@ -1,0 +1,200 @@
+Uri: https://culturaltracking.ru/static/js/spxl.js?pixelId=4925
+File Name: C:\Downloaded Web Sites\shm.ru\static\js\spxl.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/bitrix/js/main/core/core.min.js?1653569191216224
+File Name: C:\Downloaded Web Sites\shm.ru\bitrix\js\main\core\core.min.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/bitrix/js/socialservices/css/ss.min.css?16482271574686
+File Name: C:\Downloaded Web Sites\shm.ru\bitrix\js\socialservices\css\ss.min.css
+Content Type: text/css
+
+Uri: https://shm.ru/bitrix/js/socialservices/ss.js?15294050741419
+File Name: C:\Downloaded Web Sites\shm.ru\bitrix\js\socialservices\ss.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/css/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\shm.ru\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://shm.ru/img/favicon/android-icon-192x192.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\android-icon-192x192.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/favicon/apple-icon-114x114.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/favicon/apple-icon-120x120.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/favicon/apple-icon-144x144.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/favicon/apple-icon-152x152.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/favicon/apple-icon-180x180.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/favicon/apple-icon-57x57.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/favicon/apple-icon-60x60.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/favicon/apple-icon-72x72.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/favicon/apple-icon-76x76.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/favicon/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\favicon\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://shm.ru/img/psb_logo.png
+File Name: C:\Downloaded Web Sites\shm.ru\img\psb_logo.png
+Content Type: image/png
+
+Uri: https://shm.ru/js/resp.js?v3
+File Name: C:\Downloaded Web Sites\shm.ru\js\resp.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/local/components/custom/calendar/templates/bw_2/script.js?16380009831110
+File Name: C:\Downloaded Web Sites\shm.ru\local\components\custom\calendar\templates\bw_2\script.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/local/components/custom/calendar/templates/bw_2/style.css?16431051683399
+File Name: C:\Downloaded Web Sites\shm.ru\local\components\custom\calendar\templates\bw_2\style.css
+Content Type: text/css
+
+Uri: https://shm.ru/local/components/nimax_bw/shows/templates/shows_bw/script.js?16451052674741
+File Name: C:\Downloaded Web Sites\shm.ru\local\components\nimax_bw\shows\templates\shows_bw\script.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/local/components/nimax_bw/shows/templates/shows_bw/style.css?16431832871812
+File Name: C:\Downloaded Web Sites\shm.ru\local\components\nimax_bw\shows\templates\shows_bw\style.css
+Content Type: text/css
+
+Uri: https://shm.ru/local/templates/shm_bw/bootstrap-5.1.1-dist/css/bootstrap.min.css?1631793022162764
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\bootstrap-5.1.1-dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://shm.ru/local/templates/shm_bw/bootstrap-5.1.1-dist/js/bootstrap.bundle.min.js?163179302678871
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\bootstrap-5.1.1-dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/local/templates/shm_bw/bootstrap-5.1.1-dist/js/bootstrap.min.js?163179302859733
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\bootstrap-5.1.1-dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/local/templates/shm_bw/bootstrap-5.1.1-dist/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\bootstrap-5.1.1-dist\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/local/templates/shm_bw/components/bitrix/menu/after_bottom_menu/style.css?1640081575525
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\components\bitrix\menu\after_bottom_menu\style.css
+Content Type: text/css
+
+Uri: https://shm.ru/local/templates/shm_bw/components/bitrix/menu/bottom_menu/style.css?1639739502271
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\components\bitrix\menu\bottom_menu\style.css
+Content Type: text/css
+
+Uri: https://shm.ru/local/templates/shm_bw/components/bitrix/menu/top_menu_bw/style.css?16402640302048
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\components\bitrix\menu\top_menu_bw\style.css
+Content Type: text/css
+
+Uri: https://shm.ru/local/templates/shm_bw/components/bitrix/news.list/atention/style.css?1635831729606
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\components\bitrix\news.list\atention\style.css
+Content Type: text/css
+
+Uri: https://shm.ru/local/templates/shm_bw/components/bitrix/subscribe.edit/simplified-to-popap/script.js?1631513078270
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\components\bitrix\subscribe.edit\simplified-to-popap\script.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/local/templates/shm_bw/components/bitrix/subscribe.edit/simplified-to-popap/style.css?16315130781059
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\components\bitrix\subscribe.edit\simplified-to-popap\style.css
+Content Type: text/css
+
+Uri: https://shm.ru/local/templates/shm_bw/components/bitrix/system.auth.form/auth/style.css?1631513080442
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\components\bitrix\system.auth.form\auth\style.css
+Content Type: text/css
+
+Uri: https://shm.ru/local/templates/shm_bw/components/nimax/menu/main/script.js?16504423912173
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\components\nimax\menu\main\script.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/local/templates/shm_bw/components/nimax/menu/main/style.css?16421479343219
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\components\nimax\menu\main\style.css
+Content Type: text/css
+
+Uri: https://shm.ru/local/templates/shm_bw/css/lightslider.min.css?16339222455537
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\css\lightslider.min.css
+Content Type: text/css
+
+Uri: https://shm.ru/local/templates/shm_bw/css/shonin.css?165397900919520
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\css\shonin.css
+Content Type: text/css
+
+Uri: https://shm.ru/local/templates/shm_bw/images/mincult.png
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\images\mincult.png
+Content Type: image/png
+
+Uri: https://shm.ru/local/templates/shm_bw/images/ocenka.png
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\images\ocenka.png
+Content Type: image/png
+
+Uri: https://shm.ru/local/templates/shm_bw/js/f.js?1643713664121620
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\js\f.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/local/templates/shm_bw/js/jquery.fancybox-3.2.10.min.js?163178039759714
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\js\jquery.fancybox-3.2.10.min.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/local/templates/shm_bw/js/lightslider.min.js?163392212816023
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\js\lightslider.min.js
+Content Type: application/javascript
+
+Uri: https://shm.ru/local/templates/shm_bw/styles.css?165467872030854
+File Name: C:\Downloaded Web Sites\shm.ru\local\templates\shm_bw\styles.css
+Content Type: text/css
+
+Uri: https://shm.ru/lvs/lvs.css?158392760834450
+File Name: C:\Downloaded Web Sites\shm.ru\lvs\lvs.css
+Content Type: text/css
+
+Uri: https://shm.ru/shows/
+File Name: C:\Downloaded Web Sites\shm.ru\shows\index.htm
+Content Type: text/html
+
+Uri: https://top-fwz1.mail.ru/counter?id=2220182;js=na
+File Name: C:\Downloaded Web Sites\shm.ru\counter-1
+Content Type: image/gif
+
+Uri: https://top-fwz1.mail.ru/counter?id=2220182;t=479;l=1
+File Name: C:\Downloaded Web Sites\shm.ru\counter
+Content Type: image/gif
+
+Uri: https://top-fwz1.mail.ru/counter?id=3150470;js=na
+File Name: C:\Downloaded Web Sites\shm.ru\counter-2
+Content Type: image/gif
+

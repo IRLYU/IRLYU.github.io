@@ -1,0 +1,39 @@
+.carousel-item__img{
+    margin-bottom: 16px;
+}
+.item-titul{
+    font-size: 32px;
+    font-family: 'Casus Pro';
+}
+.owl-nav{
+    display: flex;
+    justify-content: center;
+}
+.owl-prev{
+    background-color: rgb(133, 46, 46) !important;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    margin: 20px 40px 20px 40px;
+}
+.owl-next{
+    background-color: rgb(133, 46, 46) !important;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    margin: 20px 40px 20px 40px;
+}
+.owl-dots{
+    display: flex;
+    justify-content: center;
+}
+.owl-dots>.active{
+    background-color: rgb(133, 46, 46) !important;
+}
+.owl-dot{
+    width: 10px;
+    height: 10px;
+    background-color: #fff !important;
+    border-radius: 100px;
+    margin: 0px 10px 0px 10px;
+}
